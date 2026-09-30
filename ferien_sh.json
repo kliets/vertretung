@@ -1,0 +1,38 @@
+{
+  "hinweis": "Ferientermine Schleswig-Holstein laut Landesverordnung über Ferientermine. Bewegliche Ferientage sind die Ersatztermine der Verordnung – jede Schule kann eigene festlegen. Bitte bei Bedarf hier oder in der App anpassen.",
+  "schuljahre": {
+    "2025/26": {
+      "beginn": "2025-09-08",
+      "ende": "2026-07-03",
+      "ferien": [
+        ["Herbstferien", "2025-10-20", "2025-10-30"],
+        ["Weihnachtsferien", "2025-12-19", "2026-01-06"],
+        ["Bewegliche Ferientage", "2026-02-02", "2026-02-03"],
+        ["Osterferien", "2026-03-26", "2026-04-10"],
+        ["Beweglicher Ferientag", "2026-05-15", "2026-05-15"]
+      ]
+    },
+    "2026/27": {
+      "beginn": "2026-08-17",
+      "ende": "2027-07-02",
+      "ferien": [
+        ["Herbstferien", "2026-10-12", "2026-10-24"],
+        ["Weihnachtsferien", "2026-12-21", "2027-01-06"],
+        ["Bewegliche Ferientage", "2027-02-01", "2027-02-02"],
+        ["Osterferien", "2027-03-30", "2027-04-10"],
+        ["Beweglicher Ferientag", "2027-05-07", "2027-05-07"]
+      ]
+    },
+    "2027/28": {
+      "beginn": "2027-08-16",
+      "ende": "2028-06-23",
+      "ferien": [
+        ["Herbstferien", "2027-10-11", "2027-10-23"],
+        ["Weihnachtsferien", "2027-12-23", "2028-01-08"],
+        ["Beweglicher Ferientag", "2028-01-31", "2028-01-31"],
+        ["Osterferien", "2028-04-03", "2028-04-15"],
+        ["Beweglicher Ferientag", "2028-05-26", "2028-05-26"]
+      ]
+    }
+  }
+}
